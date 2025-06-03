@@ -1,2 +1,2 @@
 # website-pariwisata-sleman
-Tourist Destination Website by Shofiyah
+Tourist Destination Website by @tshoreader
